@@ -51,7 +51,10 @@ Lorcana Mobile est une application développée en **React Native avec Expo** pe
 
 5. Tester l’application sur un appareil physique en scannant le QRcode
    
-   ```
+6. Comme que j'ai utilisé l'api https://lorcana.brybry.fr/ , la page register ne marche pas Donc pour se connecter a l'appli mobile , il faut se connecter sur l'api avec un compte existant.
+email : andrebernard.gnahoui@epfedu.fr
+mdp : UCwfkt6
+
 
 ## Technologies utilisées
 - **React Native** avec **Expo** pour le développement mobile
